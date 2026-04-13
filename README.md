@@ -14,8 +14,8 @@
 └──────────────┬─────────────────────────┬─────────────┘
                │                         │
       ┌────────▼──────┐        ┌─────────▼──────────────┐
-      │   Otto        │◄──────►│  Dave / Bob / Emily     │
-      │  (Manager)    │ 3 conf │  (Analyst Agents)       │
+      │   Otto        │◄──────►│  Dave / Bob / Emily    │
+      │  (Manager)    │ 3 conf │  (Analyst Agents)      │
       └───────────────┘        └────────────────────────┘
 ```
 
@@ -42,7 +42,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/janseninvest/hedge-agents
+git clone https://github.com/jansenanalytics/hedge-agents
 cd hedge-agents
 npm install
 
